@@ -33,12 +33,14 @@ By combining embedded hardware, mobile development, and advanced AI, EchoVision 
 
 ## 🧱 Architecture
 
-
 ```
 [ESP32 Glasses] ⇄ (Bluetooth) ⇄ [Android App] ⇄ (HTTP) ⇄ [Flask Server]
-                                                       ⇓
-                          [OCR or Scene Analysis] → [Amazon Polly] → Audio
+                                                                 ⇓
+                                         [OCR or Scene Analysis] → [Amazon Polly] → Audio
 ```
+
+![Architecture](https://github.com/marcosdizn/ECHOVISION/blob/main/Architecture.png?raw=true)
+
 
 - Lightweight architecture ensures the mobile app remains efficient, with heavy processing done server-side.
 
