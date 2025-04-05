@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EchoVision</string>
+    <string name="stop">Terminar</string>
+    <string name="start">Empezar</string>
+</resources>

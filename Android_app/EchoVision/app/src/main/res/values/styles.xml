@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">#09162E</item>
+        <item name="colorPrimaryDark">#09162E</item>
+        <item name="colorAccent">#09162E</item>
+        <item name="android:statusBarColor">#09162E</item>
+    </style>
+</resources>
