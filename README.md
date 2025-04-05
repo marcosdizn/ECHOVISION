@@ -32,6 +32,7 @@ By combining embedded hardware, mobile development, and advanced AI, EchoVision 
 - 🔊 **Audio Output**: Natural speech synthesis using Amazon Polly.
 
 ## 🧱 Architecture
+![AI Architecture](https://github.com/marcosdizn/ECHOVISION/blob/main/Architecture.png?raw=true)
 
 ```
 [ESP32 Glasses] ⇄ (Bluetooth) ⇄ [Android App] ⇄ (HTTP) ⇄ [Flask Server]
