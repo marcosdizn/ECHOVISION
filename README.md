@@ -11,6 +11,8 @@ A low-cost, AI-powered wearable assistant designed to help visually impaired ind
 
 By combining embedded hardware, mobile development, and advanced AI, EchoVision aims to offer an accessible alternative to expensive assistive technologies already in the market.
 
+![Architecture](https://github.com/marcosdizn/ECHOVISION/blob/main/Poster.png?raw=true)
+
 ## 🛠️ Tech Stack
 
 - **Embedded**: ESP32-WROVER CAM (programmed with Arduino IDE)
